@@ -1,0 +1,1 @@
+nasm -f elf32 main.asm -o main.o
